@@ -45,6 +45,9 @@ Skills to Use (Optional):
 1.	Connecting pages with buttons
 2.	Using URLs and images
 3.	Using calculations to create new measures or dimensions
-Resources: 
+### Resources: 
 Tableau maintains a large community to help its users find answers of their product or feature related queries. Since this project would involve a wide number of Tableau features, you are suggested to first explore the answers on Tableau Community.
 Additionally, please login to your Tableau Public account to access Free Training Videos by Tableau on various topics. Please select the Tableau version you are using before accessing the video content.
+### solution
+[Covid 19 Dashboard] (https://public.tableau.com/app/profile/rajeswari6342/viz/Covid19_16347179878590/Covid19)
+
